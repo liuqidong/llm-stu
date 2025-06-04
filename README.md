@@ -14,3 +14,15 @@
 # Prompt Engineering  提示词工程
 
 02_Prompt基础\day4-demo
+
+# LangChain基础
+
+03_LangChain基础\day5-demo
+
+# LangChain Chat Model
+
+03_LangChain基础\day6-demo
+
+# LangChain Tools  & Agent
+
+03_LangChain基础\day7-demo
