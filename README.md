@@ -26,3 +26,7 @@
 # LangChain Tools  & Agent
 
 03_LangChain基础\day7-demo
+
+# Embedding与向量数据库
+
+04_Embedding基础\day8-demo
