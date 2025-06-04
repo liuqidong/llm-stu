@@ -30,3 +30,7 @@
 # Embedding与向量数据库
 
 04_Embedding基础\day8-demo
+
+# RAG 专题
+
+05_Rag基础\day9-demo
